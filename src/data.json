@@ -1,0 +1,13 @@
+[
+    {
+      "img": "/images/apple.jpg",
+      "question": "What do these numbers represent?",
+      "answers": ["1", "yfc"]
+    },
+    {
+      "img": "/images/drzewo.jpg",
+      "question": "Another question?",
+      "answers": ["Option A", "Option B"]
+    }
+  ]
+  
